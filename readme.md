@@ -68,4 +68,5 @@ Running `mvn --help`  will display the maven help menu
 
 The emojis for git are amazing! :trollface:
 So why is there only one here???
+Doing the step by step approach here...
 I love Git
